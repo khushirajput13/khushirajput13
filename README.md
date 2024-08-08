@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khushi Rajput</h1>
-<h3 align="center">Data Science Enthusiast | Aspiring to Harness Data for Real-World Impact | Data Science Intern @CodSoft</h3>
+<h3 align="center">Data Science Enthusiast | Aspiring to Harness Data for Real-World Impact | Ex Python Developer Intern @CodeClause</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushirajput13&label=Profile%20views&color=0e75b6&style=flat" alt="khushirajput13" /> </p>
 
