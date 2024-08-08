@@ -5,15 +5,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
 
-- 🔭 I’m currently working on **Titanic Survival Prediction Project using Machine Learning.**
+- 🔭 I’m currently working on **my Portfolio.**
 
-- 🌱 I’m currently learning **PowerBI.**
+- 🌱 I’m currently learning **Machine Learning.**
 
 - 👯 I’m looking to collaborate on **various Open Source projects.**
 
-- 💬 Ask me about **Frontend, Java, Python, PostgreSQL.**
+- 💬 Ask me about **Frontend, SQL, Python, PostgreSQL.**
 
-- 📫 How to reach me **khushirajput1013@gmail.com**
+- 📫 How to reach me **connect@khushirajput.me**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/154oYp6OREpUFHArXcarhhpQa6jguXaYb/view?usp=sharing)
 
