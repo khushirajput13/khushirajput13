@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **connect@khushirajput.me**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/154oYp6OREpUFHArXcarhhpQa6jguXaYb/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1x1B-w_DnzgSbAcPqUPBQ_9a9pjYj8Hm-/view?usp=sharing)
 
 <br><h3 align="left">Connect with me:</h3>
 <p align="left">
