@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Khushi Rajput</h1>
-<h3 align="center">Data Science Enthusiast | Aspiring to Harness Data for Real-World Impact | Ex Python Developer Intern @CodeClause</h3>
+<h3 align="center">AI Automation Engineer | SaaS Development | n8n | AI Agents | Python & JavaScript</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushirajput13&label=Profile%20views&color=0e75b6&style=flat" alt="khushirajput13" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
 
-- 🔭 I’m currently working on **my Portfolio.**
+- 🔭 I’m currently working on **my n8n Projects.**
 
-- 🌱 I’m currently learning **Machine Learning.**
+- 🌱 I’m currently learning **AI Automation, SaaS Development, n8n, AI Agents.**
 
 - 👯 I’m looking to collaborate on **various Open Source projects.**
 
 - 💬 Ask me about **Frontend, SQL, Python, PostgreSQL.**
 
-- 📫 How to reach me **connect@khushirajput.me**
+- 📫 How to reach me **khushirajput1326@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1x1B-w_DnzgSbAcPqUPBQ_9a9pjYj8Hm-/view?usp=sharing)
 
 <br><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/khushi-rajput-254ba1263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khushi-rajput-254ba1263/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/khushirajput13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khushirajput13/" height="30" width="40" /></a>
 <a href="https://kaggle.com/khushirajput10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="khushirajput10" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@khushirajput1013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@khushirajput1013" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/khushirajput1013/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/khushirajput1013/" height="30" width="40" /></a>
